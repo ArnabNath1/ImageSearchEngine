@@ -115,11 +115,3 @@ h1{
 	object-fit: cover;
 	border-radius: 5px;
 }
-width: 90%;
-	max-width: 600px;
-	margin: auto;
-	height: 80px;
-	background: #40e0d0;
-	display: flex;
-	align-items: center;
-	border-radius: 8px;
